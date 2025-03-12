@@ -1,7 +1,7 @@
 ---
 name: "연구 노트"
-about: "연구 기록"
-title: "[연구노트제목] YYYY-MM-DD 연구노트"
+about: "연구 노트 템플릿"
+title: ""
 labels: []
 assignees: []
 
